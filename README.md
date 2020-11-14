@@ -8,4 +8,4 @@ helper.py  - This contains two classes [Tokenization() and Metrics()] that have 
 
 train_processed.csv - Is the cleaned and Modified Dataset made using cleaner.py
 
-Main.ipynb - You need to run this to train various models and evaluate them
+Main.ipynb - You need to run this to train various models and evaluate them (The results are just one instance with certain Hyperparameter,It isnt our best performing model)
